@@ -1,5 +1,4 @@
-# Anouncement
-This project is looking for a new home/mantainer. If you are interested please send a PM.
+> Just changed the req.txt file with the versions before 28th july 20203 
 
 # elan2mqtt
 MQTT gateway for ElkoEP iNELS RF system https://www.elkoep.com/wireless-rf-control
