@@ -1,4 +1,5 @@
-> Just changed the req.txt file with the versions before 28th july 20203 
+> Just changed the requriments.txt file with the versions before 28th july 2023
+> I forked this just for testing 
 
 # elan2mqtt
 MQTT gateway for ElkoEP iNELS RF system https://www.elkoep.com/wireless-rf-control
