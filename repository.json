@@ -1,5 +1,5 @@
 {
-  "name": "elan2mqtt Hass.IO add-on repository",
-  "url": "https://github.com/zdar/elan2mqtt/",
-  "maintainer": "zdar"
+  "name": "elan2mqtt - fix",
+  "url": "https://github.com/danek309044/elan2mqtt/",
+  "maintainer": "zdar, danek30944"
 }
